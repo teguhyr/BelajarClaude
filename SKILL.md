@@ -16,7 +16,7 @@ Technology and Best Practices in the market, no non-sense tutorial. I prefer cle
 - save all output files to the output folder
 - cite sources when doing research 
 
-# project structure 
+# Output Structure 
 
 - workflows/ - workflow instruction files (plain english recipes the agent follows)
 - output /- finished deliverables (reports,learning material, drafts , analysis)
