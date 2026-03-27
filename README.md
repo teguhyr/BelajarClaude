@@ -1,6 +1,7 @@
 # BelajarClaude
 Belajar Bareng Claude Untuk Personal Productiviy Improvement 
-output/
+
+#output/
 ├── README-training.md                        # Index navigasi semua modul
 │
 ├── BASIC-01-pengenalan-claude.md             # Apa itu Claude, akses, batasan
